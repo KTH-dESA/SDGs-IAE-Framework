@@ -1,7 +1,7 @@
 # SDGs-IAE-Framework
 Sustainable Development Goals impact assessment framework for energy projects (SDGs- IAE)
 
-Reference as: 6.	Castor, J.; Bacha, K.; Fuso Nerini, F. Sustainable Development Goals impact assessment framework for energy projects (SDGs-IAE): methods and application to the Grand Ethiopian Renaissance Dam and the Hinkley Point C Nuclear Power Station. Environmental Research Letters (Under Review)
+Reference as: Castor, J.; Bacha, K.; Fuso Nerini, F. Sustainable Development Goals impact assessment framework for energy projects (SDGs-IAE): methods and application to the Grand Ethiopian Renaissance Dam and the Hinkley Point C Nuclear Power Station. Environmental Research Letters (Under Review)
 
 NOTE: please use pull requests to upload applications of the tool, or to propose modifications.
 
