@@ -3,6 +3,8 @@ Sustainable Development Goals impact assessment framework for energy projects (S
 
 Reference as: 6.	Castor, J.; Bacha, K.; Fuso Nerini, F. Sustainable Development Goals impact assessment framework for energy projects (SDGs-IAE): methods and application to the Grand Ethiopian Renaissance Dam and the Hinkley Point C Nuclear Power Station. Environmental Research Letters (Under Review)
 
+NOTE: please use pull requests to upload applications of the tool, or to propose modifications.
+
 The 2030 UN Agenda for Sustainable Development is comprised of 17 goals with 169 interlinked targets, including SDG7, which calls for access to affordable, reliable, sustainable, and modern energy services for all. Given the established existence of synergies and trade-offs between the pursuit of SDG7 and the other targets, the SDGs can be used as a lens to help shape holistic energy projects. This tool is part of a study that attempts to develop a framework for a qualitative assessment of SDG target synergies and trade-offs within the context of a given energy project.  It is a starting-point for project developers and investors in an overall sustainability assessment of a project and can be used to direct further in-depth analysis of specific interactions, as well as to suggest areas for collaboration or mitigation to improve the sustainability of the project. 	
 	
 Please read this sheet in its entirety before using the tool. 	
