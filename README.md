@@ -49,6 +49,11 @@ The "Results" sheet gives descriptions of the possible SDG linkages for your pro
 	
 The "Organized_Results" sheet gives the information on the "Results" sheet organized by User-Defined Priority. Note that any targets given a priority of 0 will not appear. 	
 	
+FEEDBACK	
+The SDGs-IAE Framework is constantly evolving. Please help us improve by providing feedback in the form 	
+	HERE
+Thank you for your time.	
+	
 DISCLAIMER	
 The results of this tool are intended to be informational only, and do not represent definite answers. The synergies and trade-offs achieved may not be applicable to every project, and users should exercise their own judgement when using the results. 	
 	
