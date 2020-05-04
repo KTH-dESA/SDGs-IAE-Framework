@@ -1,7 +1,7 @@
 # SDGs-IAE-Framework
 Sustainable Development Goals impact assessment framework for energy projects (SDGs- IAE)
 
-**Reference as**: Castor, J.; Bacha, K.; Fuso Nerini, F. SDGs in action: A novel framework for assessing energy projects against the Sustainable Development Goals. Energy Research and Social Sciences, 2020
+**Reference as**: Castor, J.; Bacha, K.; Fuso Nerini, F. SDGs in action: A novel framework for assessing energy projects against the Sustainable Development Goals. Energy Research and Social Sciences, 2020 ( https://doi.org/10.1016/j.erss.2020.101556 )
 
 **Note**: The tool can be download and used for non commercial purposes and it is the excel file dowloadable at this page: SDGs-IAE Framework - Version n.n.xlsm
 
