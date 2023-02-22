@@ -5,7 +5,7 @@ Sustainable Development Goals impact assessment framework for energy projects (S
 (This publication refers to Version 1.1 for download)
 
 **versions**: A new version including actions has been released, as described in: Leite de Almeida, C.M., Bergqvist, E., Thacker, S. et al. Actions to align energy projects with the Sustainable Development Goals. Discov Sustain 2, 16 (2021). (https://doi.org/10.1007/s43621-021-00020-3)
-(The newest version is downloadable above as the ´Actions´version)
+(The newest version is downloadable above under ´Framework_SDG_IAE_Actions´)
 
 **Note**: The tool can be download and used for non commercial purposes and it is the excel file dowloadable at this page: SDGs-IAE Framework - Version n.n.xlsm
 
